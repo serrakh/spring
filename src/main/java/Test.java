@@ -1,6 +1,6 @@
 /**
  * Created by HATIM on 22/04/2017.
  */
-publi class Test {
-
+public class Test {
+    String str
 }
